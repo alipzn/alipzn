@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a passionate robotics engineer with a deep int
 
 # 🛠️ Skills & Technologies
 - Languages: Python, MATLAB, C, C++
-- Machine Learning: TensorFlow, PyTorch, Scikit-Learn
-- Data Analysis: Pandas, NumPy, Matplotlib
+- Machine Learning: TensorFlow, PyTorch, Scikit-Learn, OpenCV
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
 - Tools & Platforms: Git, Linux
 
 # 📫 How to Reach Me
