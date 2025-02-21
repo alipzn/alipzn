@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate robotics engineer with a deep int
 - Tools & Platforms: Git, Linux
 
 # 📫 How to Reach Me
-- LinkedIn: https://www.linkedin.com/in/ali-pazani-3021a518a/
+- LinkedIn: https://www.linkedin.com/in/alipazani/
 - Email: alipazani2000@gmail.com
 
 # ✨ Contributions & Open Source
